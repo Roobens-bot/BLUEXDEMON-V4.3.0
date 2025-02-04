@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "50943409873"
 
 
 
@@ -29,7 +29,7 @@ global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
 global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.accnumber = "50943409876"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
